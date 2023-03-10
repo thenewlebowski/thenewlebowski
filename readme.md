@@ -29,7 +29,7 @@
 
 - :books: changing the world of education
 
-- :mailbox: reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:coltonn@cryptnode.tech)
+- :mailbox: reach me: [coltonn@cryptnode.tech](mailto:coltonn@cryptnode.tech)
 
 ### :hammer_and_wrench: Languages and Tools :
 
