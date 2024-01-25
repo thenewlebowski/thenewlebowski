@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="./style.css">
 
 <div id="header" align="center">
     <h1>
@@ -12,33 +12,25 @@
     </a>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/colton-nielsen-457825149/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="linkedin badge"/>
-    </a>
+<p id="badges" align="center">
+    <a href="www.linkedin.com/in/coltonn" src="https://img.shields.io/badge/linkedin?logo=linkedin-blue&style=plastic">
+        <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=plastic" alt="linkedin badge"/></a>
     <a href="https://www.youtube.com/channel/UC7QNB-cxH_3dca1oV5tlwDA">
-        <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=plastic" alt="Youtube Badge"/>
-    </a>
+        <img src="https://img.shields.io/badge/youtube-red?logo=youtube&style=plastic" alt="youtube badge"/></a>
     <a href="https://twitter.com/thenewlebowski">
-        <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=plastic" alt="Twitter Badge"/>
-    </a>
+        <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white&style=plastic" alt="twitter badge"/></a>
+</p>
+
+<div id="content" align=center>
+    <h4>:atom: About Me:</h4>
+    <h5>:scroll: open source advocate and contributor</h5>
+    <h5>:comet: eat, breath, think physics</h5>
+    <h5>:books: changing the world of education</h5>
+    <h6>:mailbox: for any inquires shoot an email <a href="mailto:coltonn@cryptnode.tech">@coltonn@cryptnode.tech</a></h6>
 </div>
 
-### 
-:atom: About Me:
-- :ringed_planet: passionate fullstack engineer
-
-- :scroll: open source advocate and contributor
-
-- :comet: eat, breath, think physics
-
-- :books: changing the world of education
-
-- :mailbox: reach me: [coltonn@cryptnode.tech](mailto:coltonn@cryptnode.tech)
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
+<div align=center>
+    <h2>:hammer_and_wrench: Languages and Tools :</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
