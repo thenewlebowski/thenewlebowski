@@ -26,7 +26,7 @@
     <h5>:scroll: open source advocate and contributor</h5>
     <h5>:comet: eat, breath, think physics</h5>
     <h5>:books: changing the world of education</h5>
-    <h6>:mailbox: for any inquires shoot an email <a href="mailto:coltonn@cryptnode.tech">@coltonn@cryptnode.tech</a></h6>
+    <h6>:mailbox: for any inquires shoot an email at <a href="mailto:coltonn@cryptnode.tech">colton.nielsen@hyperbolic.studio</a></h6>
 </div>
 
 <div align=center>
