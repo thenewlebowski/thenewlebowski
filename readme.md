@@ -6,12 +6,6 @@
     </h1>
 </div>
 
-<div id="gif" align="center">
-    <a href="https://giphy.com/gifs/space-planet-outer-3o7TKzyIPAiMR1pErK">
-        <img src="https://github.com/thenewlebowski/thenewlebowski/assets/56704786/f1cfdf5d-5424-4af1-9462-b5bf17185344" alt="space"/>
-    </a>
-</div>
-
 <p id="badges" align="center">
     <a href="www.linkedin.com/in/coltonn" src="https://img.shields.io/badge/linkedin?logo=linkedin-blue&style=plastic">
         <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=plastic" alt="linkedin badge"/></a>
